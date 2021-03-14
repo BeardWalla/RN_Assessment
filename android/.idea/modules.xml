@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MBAssessment.iml" filepath="$PROJECT_DIR$/.idea/modules/MBAssessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MBAssessment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MBAssessment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-461510759/MBAssessment.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-461510759/MBAssessment.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-471185570/MBAssessment.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-471185570/MBAssessment.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-28920834/MBAssessment.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-28920834/MBAssessment.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1186398137/MBAssessment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1186398137/MBAssessment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/760462623/MBAssessment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/760462623/MBAssessment.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

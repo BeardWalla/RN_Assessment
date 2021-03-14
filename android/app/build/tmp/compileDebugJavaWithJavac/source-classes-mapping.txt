@@ -1,0 +1,14 @@
+com/mbassessment/MainApplication.java
+ com.mbassessment.MainApplication
+ com.mbassessment.MainApplication$1
+com/mbassessment/MainActivity.java
+ com.mbassessment.MainActivity
+com/mbassessment/BuildConfig.java
+ com.mbassessment.BuildConfig
+com/mbassessment/ReactNativeFlipper.java
+ com.mbassessment.ReactNativeFlipper
+ com.mbassessment.ReactNativeFlipper$1
+ com.mbassessment.ReactNativeFlipper$2
+ com.mbassessment.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
